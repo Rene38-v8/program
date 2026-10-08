@@ -1,5 +1,5 @@
 #include <iostream>
-
+//nov komentar
 using namespace std;
 
 int main () {

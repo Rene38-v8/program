@@ -26,6 +26,7 @@ int main () {
         resitev = x * y;
     }
     if (operacija == '/'){ resitev = x / y;}
+    //dodan komentar
 
 cout << "Resitev je: " << resitev;
     cout << endl;

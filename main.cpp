@@ -3,6 +3,7 @@
 using namespace std;
 
 int main () {
+    //komentar
     int x;
     int y;
     char operacija;
@@ -26,7 +27,7 @@ int main () {
         resitev = x * y;
     }
     if (operacija == '/'){ resitev = x / y;}
-    //dodan komentar
+
 
 cout << "Resitev je: " << resitev;
     cout << endl;
